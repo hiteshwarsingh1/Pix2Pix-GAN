@@ -1,4 +1,8 @@
 # Pix2Pix-GAN
+![Python](https://img.shields.io/badge/Python-3.7-brightgreen)
+![Framework](https://img.shields.io/badge/Framework-Pytorch-yellow)
+![ComputerVision](https://img.shields.io/badge/ComputerVision-green)
+
 ## Description
 ---
 In this, we will implement an image-to-image translation method, based on
